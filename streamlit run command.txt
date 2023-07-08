@@ -1,3 +1,0 @@
-streamlit run "C:\Users\test\Desktop\MDR\multiple disease pred.py"
-
-
